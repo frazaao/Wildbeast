@@ -1,2 +1,2 @@
 # Wildbeast
- Wildbeast - Origamid
+ Wildbeast
